@@ -1,4 +1,0 @@
-Demo2 day2
-
-
-Select * from emp;
